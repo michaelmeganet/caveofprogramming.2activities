@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">caveofprogramming.2activities</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lanuch">Lanuch</string>
+    <string name="edit_text_hint">Please Enter Your Text here!!</string>
+    <string name="quit">Quit</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_other">Title activity other</string>
+
+</resources>
